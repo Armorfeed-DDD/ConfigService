@@ -1,5 +1,6 @@
 package com.armorfeed.api.configuration;
 
+import org.junit.jupiter.api.Tag;
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
@@ -10,6 +11,10 @@ class ConfigurationApplicationTests {
 	void contextLoads() {
 		int p=1;
 		p=p+1;
+	}
+	@Test
+	void dd(){
+
 	}
 
 }
