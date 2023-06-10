@@ -8,6 +8,8 @@ class ConfigurationApplicationTests {
 
 	@Test
 	void contextLoads() {
+		int p=1;
+		p=p+1;
 	}
 
 }
