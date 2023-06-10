@@ -17,4 +17,9 @@ class ConfigurationApplicationTests {
 
 	}
 
+	@Test
+	void notification(){
+
+	}
+
 }
